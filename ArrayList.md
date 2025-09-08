@@ -1,7 +1,7 @@
 c# ArrayList  öğrenilenler ;
 Array List öğrendiklerim NetFramework 4.7 de çalışıyor.
 Array List object veri tipinde olduğu için str int boolean vb. türleri yazabiliriz.
-Otomatik kütüphaneye eklenmediği için kendimiz System.Collections; olarak eklememiz gerek.
+Otomatik kütüphaneye eklenmediği için kendimiz System.Collections; olarak eklememiz gerekiyor.
 
 
 --------------------------------------------Özellikler----------------------------------------------

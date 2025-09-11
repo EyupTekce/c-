@@ -1,3 +1,6 @@
+Alakasız ama önemli System.Threading.Thread.Sleep(2000)     ----> ekranı 2 saniye bekletir yani console.readline ile durdurmaya gerek yok
+
+
 c# ArrayList  öğrenilenler ;
 Array List öğrendiklerim NetFramework 4.7 de çalışıyor.
 Array List object veri tipinde olduğu için str int boolean vb. türleri yazabiliriz.
